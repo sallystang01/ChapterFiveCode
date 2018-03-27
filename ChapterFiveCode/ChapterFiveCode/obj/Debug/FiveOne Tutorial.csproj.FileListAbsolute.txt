@@ -1,0 +1,9 @@
+C:\Data\ChapterFiveCode\ChapterFiveCode\ChapterFiveCode\bin\Debug\ChapterFiveCode.exe.config
+C:\Data\ChapterFiveCode\ChapterFiveCode\ChapterFiveCode\bin\Debug\ChapterFiveCode.exe
+C:\Data\ChapterFiveCode\ChapterFiveCode\ChapterFiveCode\bin\Debug\ChapterFiveCode.pdb
+C:\Data\ChapterFiveCode\ChapterFiveCode\ChapterFiveCode\obj\Debug\ChapterFiveCode.Form1.resources
+C:\Data\ChapterFiveCode\ChapterFiveCode\ChapterFiveCode\obj\Debug\ChapterFiveCode.Properties.Resources.resources
+C:\Data\ChapterFiveCode\ChapterFiveCode\ChapterFiveCode\obj\Debug\FiveOne Tutorial.csproj.GenerateResource.Cache
+C:\Data\ChapterFiveCode\ChapterFiveCode\ChapterFiveCode\obj\Debug\FiveOne Tutorial.csproj.CoreCompileInputs.cache
+C:\Data\ChapterFiveCode\ChapterFiveCode\ChapterFiveCode\obj\Debug\ChapterFiveCode.exe
+C:\Data\ChapterFiveCode\ChapterFiveCode\ChapterFiveCode\obj\Debug\ChapterFiveCode.pdb
