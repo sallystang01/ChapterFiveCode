@@ -1,0 +1,10 @@
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\bin\Debug\FiveFive Tutorials.exe.config
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\bin\Debug\FiveFive Tutorials.exe
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\bin\Debug\FiveFive Tutorials.pdb
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\obj\Debug\FiveFive Tutorials.csprojResolveAssemblyReference.cache
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\obj\Debug\FiveFive_Tutorials.Form1.resources
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\obj\Debug\FiveFive_Tutorials.Properties.Resources.resources
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\obj\Debug\FiveFive Tutorials.csproj.GenerateResource.Cache
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\obj\Debug\FiveFive Tutorials.csproj.CoreCompileInputs.cache
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\obj\Debug\FiveFive Tutorials.exe
+C:\Data\ChapterFiveCode\ChapterFiveCode\FiveFive Tutorials\obj\Debug\FiveFive Tutorials.pdb
